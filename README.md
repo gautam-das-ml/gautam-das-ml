@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Gautam 👋
 
-<!--
-**gautam-das-ml/gautam-das-ml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student  
+🤖 Interested in Machine Learning, Deep Learning, Natural Language Processing, Computer Vision and Image Processing 
+ 
+## 🚀 Projects
+- Detection and Prediction of Security Threats using Raspberry pi, Esp 32 and Transformer model training
+- Multi Disease Fundus Image Classification (ResNet18)
+- Working on Lesion Segmentation (UNet)
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Python, C, C++
+- Machine Learning
+- Deep Learning (Beginner)
+- Biomedical Image Processing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with me
+- LinkedIn (www.linkedin.com/in/gautam-das-24429b362)
